@@ -1,0 +1,54 @@
+img {
+  width:300px;
+  margin: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.interestingfact{
+  font-style: italic;
+}
+
+span{
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  margin-left: 10px;
+  padding: 0;
+}
+
+.innercontainer{
+  border-style:solid;
+  border-color:#cecece;
+  border-width:thin;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.outercontainer{
+  border-style:solid;
+  border-color:#cecece;
+  border-width:thin;
+  width: 320px;
+  box-shadow: 5px 10px #e6e6e6;
+}
+
+h3 {
+  margin-left:10px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+p{
+  margin: 10px;
+}
+
+li{
+
+}
